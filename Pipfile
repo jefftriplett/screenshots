@@ -1,0 +1,13 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+click = "*"
+python-slugify = "*"
+pyyaml = "*"
+"delegator.py" = "*"
+click-default-group = "*"
