@@ -1,4 +1,4 @@
-# Screenshot
+# Screenshots
 
 Tool for capturing and organizing screen shots.
 
@@ -7,7 +7,7 @@ Requires [webkit2png](http://www.paulhammond.org/webkit2png/).
 ## Installation
 
 ```shell
-$ git clone git@github.com:jefftriplett/screenshots-cli.git
+$ git clone git@github.com:jefftriplett/screenshots.git
 $ cd screenshots-cli
 $ pipenv install
 ```
